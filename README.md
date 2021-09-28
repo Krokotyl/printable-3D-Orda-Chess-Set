@@ -1,6 +1,6 @@
 <p align="center"><img width=60% src="Tournament Orda Set/Concept arts/1. Set.png">
   
-#printable-3D-Orda-Chess-Set
+# Printable 3D Orda Chess Set
   
 3D models of Orda Chess Set, inspired by chess variant with assymetric chess armies created by Couch Tomato (available on https://www.pychess.org/), designed in Blender, available to 3D print.
 Project includes STL files, Blender files and some renders with concept arts.
