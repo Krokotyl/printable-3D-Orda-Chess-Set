@@ -1,4 +1,4 @@
-<p align="center"><img width=60% src="Tournament Orda Set (Beta)/Concept arts/1. Set.png">
+<p align="center"><img width=60% src="First Orda Set (Beta)/Concept arts/1. Set.png">
   
 # Printable 3D Orda Chess Set
   
