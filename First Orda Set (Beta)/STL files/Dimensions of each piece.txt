@@ -1,0 +1,32 @@
+DIMENSIONS OF EACH PIECE
+
+Archer:
+X: 29.2058 mm
+Y: 29.2058 mm
+Z: 62.357 mm
+
+Khan:
+X: 34 mm
+Y: 34 mm
+Z: 85.9816 mm
+
+
+Kheshig:
+X: 30 mm
+Y: 30 mm
+Z: 71.1319 mm
+
+Lancer:
+X: 30.4293 mm
+Y: 30.4293 mm
+Z: 76.1251 mm
+
+Pawn: 
+25.4138 mm
+25.4138 mm
+43.7527 mm
+
+Yurt:
+X: 30.2726 mm
+Y: 30.2726 mm
+Z: 46.2547 mm
