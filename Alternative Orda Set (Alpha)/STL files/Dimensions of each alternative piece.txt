@@ -1,0 +1,17 @@
+Dimensions of each alternative piece
+
+Yurt
+X: 40 mm
+Y: 40 mm
+Z: 32.1307 mm
+
+
+Archer
+X: 29.2058 mm
+Y: 29.2058 mm
+Z: 59.2412 mm
+
+Lancer
+X: 30.4293 mm
+Y: 30.4293 mm
+Z: 76.1251 mm
