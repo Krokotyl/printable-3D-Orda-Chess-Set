@@ -14,3 +14,18 @@ Width of the khan: 3,4 cm
 Matching chessboard: 4,5x4,5cm or 5x5cm square
 
 There is possibility to put steel nuts inside the base of the pieces, matching size of steel nut is M8.
+
+## Copyright
+  
+  Printable 3D Orda Chess Set
+  Copyright (C) 2021 Krokotyl
+
+    This library is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This library is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
