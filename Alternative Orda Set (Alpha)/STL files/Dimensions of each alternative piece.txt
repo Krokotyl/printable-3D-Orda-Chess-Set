@@ -15,3 +15,8 @@ Lancer
 X: 30.4293 mm
 Y: 30.4293 mm
 Z: 76.1251 mm
+
+Queen:
+X: 34 mm
+Y: 34 mm
+Z: 77 mm
