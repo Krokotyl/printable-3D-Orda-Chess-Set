@@ -30,3 +30,8 @@ Yurt:
 X: 30.2726 mm
 Y: 30.2726 mm
 Z: 46.2547 mm
+
+Queen:
+X: 34 mm
+Y: 34 mm
+Z: 77 mm
