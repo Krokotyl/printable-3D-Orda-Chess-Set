@@ -13,7 +13,7 @@ Width of the khan: 3.4 cm
 
 Matching chessboard: 4.5x4.5cm or 5x5cm square
 
-There is possibility to put steel nuts inside the base of the pieces, matching size of steel nut is M8.
+There is possibility to put steel nuts inside the base of the pieces.
   
 Before printing check dimensions attached in folder with STL files.
 
